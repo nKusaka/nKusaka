@@ -1,5 +1,8 @@
 # Hi, I’m Nik 👋
 
+<img width="1536" height="1024" src="https://github.com/user-attachments/assets/b35ee9c8-62c2-482c-a432-d883fde183ad" />
+
+
 I’m a software developer focused on **Java backend** and **SQL/JDBC**.  
 Right now I’m looking to grow my knowledge of different programming languages and learn more about software engineering in general.
 
