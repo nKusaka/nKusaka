@@ -22,4 +22,3 @@ Right now I’m looking to grow my knowledge of different programming languages 
 ## 📫 Contact
 - GitHub: https://github.com/nKusaka
 - LinkedIn: https://www.linkedin.com/in/nikolias-kusaka/
-- Email: <optional>
