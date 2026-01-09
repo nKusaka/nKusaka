@@ -5,9 +5,9 @@ Right now I’m looking to grow my knowledge of different programming languages 
 
 ---
 ## 🚀 Featured Projects
-Personal Banking App: https://github.com/nKusaka/Capstone-1-Personal-Banking-App
-Ichiraku Ramen: https://github.com/nKusaka/Ichiraku-Ramen
-Video Game Store Website: https://github.com/nKusaka/Video-Game-Store-Capstone-3
+### Personal Banking App: https://github.com/nKusaka/Capstone-1-Personal-Banking-App
+### Ichiraku Ramen: https://github.com/nKusaka/Ichiraku-Ramen
+### Video Game Store Website: https://github.com/nKusaka/Video-Game-Store-Capstone-3
 
 ## 🧰 Skills
 - **Languages:** Java, SQL, C++, Python
