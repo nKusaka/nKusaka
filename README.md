@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Nik 👋
 
-<!--
-**nKusaka/nKusaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer focused on **Java backend** and **SQL/JDBC**.  
+Right now I’m looking to grow my knowledge of different programming languages and learn more about software engineering in general.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+- **Languages:** Java, SQL, C++, Python
+- **Backend:** REST APIs, JDBC, DAOs, authentication basics
+- **Tools:** IntelliJ, Git/GitHub, MySQL, Visual Studio
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/nKusaka
+- LinkedIn: https://www.linkedin.com/in/nikolias-kusaka/
+- Email: <optional>
